@@ -1,0 +1,18 @@
+{
+    "name": "hotellus/api",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hotellus"
+        },
+        {
+            "name": "joao pedro"
+        }
+    ],
+    "require": {}
+}
